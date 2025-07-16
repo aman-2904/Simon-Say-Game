@@ -37,7 +37,7 @@ A fun memory-based Simon Says game built using **HTML**, **CSS**, and **JavaScri
 ```bash
 Simon-Say-Game/
 │
-├── index.html        # Main HTML file
+├── simon.html        # Main HTML file
 ├── simon.css         # Styling (buttons, layout, animations)
 ├── simon.js          # Game logic (color sequence, level system)
 ├── README.md         # Project description and instructions
